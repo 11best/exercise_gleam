@@ -6,6 +6,7 @@
 ```sh
 gleam add exercise_gleam@1
 ```
+
 ```gleam
 import exercise_gleam
 
@@ -22,4 +23,3 @@ Further documentation can be found at <https://hexdocs.pm/exercise_gleam>.
 gleam run   # Run the project
 gleam test  # Run the tests
 ```
-# exercise_gleam
