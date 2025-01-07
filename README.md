@@ -21,5 +21,7 @@ Further documentation can be found at <https://hexdocs.pm/exercise_gleam>.
 
 ```sh
 gleam run   # Run the project
+gleam run -m modulename # Run specific module
+
 gleam test  # Run the tests
 ```
